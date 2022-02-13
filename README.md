@@ -2,7 +2,7 @@
 ## by Alexander Rotariu & Jason Wong 
 
 A simple 2D game where the objective is to save 50 cats from falling out of the sky. A villian on the left side of the screen is activley trying to kill you, avoid death
-by deploying your shield. The speed at which kittens fall increase gradually.
+by deploying your shield. The speed at which kittens fall increases gradually. If you let 5 cats fall to the ground or get hit by the villain, game over.
 
 Controls: 
 Forwards/Backwards: Left Arrow Key/Right Arrrow Key
