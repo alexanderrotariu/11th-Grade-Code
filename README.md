@@ -5,10 +5,12 @@ A simple 2D game where the objective is to save 50 cats from falling out of the 
 by deploying your shield. The speed at which kittens fall increases gradually. If you let 5 cats fall to the ground or get hit by the villain, game over.
 
 Controls: 
+
 Forwards/Backwards: Left Arrow Key/Right Arrrow Key
+
 Shield: Down Arrow Key
 
-Screenshots: 
+# Screenshots: 
 
 ![alt text](https://cdn.discordapp.com/attachments/737088061250207859/942330680271065118/unknown.png)
 
